@@ -1,0 +1,19 @@
+# Serena
+.serena/
+
+# Kotlin/Gradle
+build/
+.gradle/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
