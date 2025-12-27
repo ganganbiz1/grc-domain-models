@@ -1,18 +1,18 @@
 # Serena
-.serena/
+.serena
 
 # Kotlin/Gradle
-build/
-.gradle/
+build
+.gradle
 *.class
 *.jar
 *.war
 *.ear
 
 # IDE
-.idea/
+.idea
 *.iml
-.vscode/
+.vscode
 
 # OS
 .DS_Store
